@@ -1,5 +1,5 @@
 ## JDKSwitcher
-JDKSwitcher is a batch file that you can switch JDK Versions easily without looking for Environment Varibles.
+JDKSwitcher is a batch file that you can switch JDK Versions easily without looking for Environment Variables.
 
 ## How to Use
 - Make sure to have .bat file on any specific location and just run it, you'll know it.
